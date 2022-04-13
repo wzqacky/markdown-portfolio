@@ -1,0 +1,4 @@
+## My skills 
+*C*
+
+**Python**
